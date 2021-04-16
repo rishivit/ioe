@@ -1,0 +1,1 @@
+Actual snaps go in this directory

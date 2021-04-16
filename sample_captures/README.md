@@ -1,0 +1,1 @@
+Sample captures go in this directory
